@@ -58,7 +58,8 @@ section {
     margin-right: 4%;
     margin-left: 4%;
     padding-left: 15px;
-    box-shadow: 5px 5px 30px gray;
+    margin-top: 5%;
+    box-shadow: 3px 3px 50px gray;
     border-radius: 15px;
 }
 
@@ -66,4 +67,43 @@ section {
     border-radius: 12%;
     padding-top: 10px;
     padding-left: 10px;
+}
+
+.Subscribers {
+    background-color: white;
+    height: 250px;
+    width: 72%;
+    margin: auto;
+    box-shadow: 3px 3px 50px gray;
+    margin-top: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
+    border-radius: 15px;
+}
+
+.Youtube {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer {
+    margin-top: 8%;
+    width: 100%;
+    height: 200px;
+    background-color: #0e0505ec;
+}
+
+footer h2 {
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+}
+
+.Food {
+    color: orange;
+}
+
+footer p {
+    text-align: center;
+    color: white;
 }
