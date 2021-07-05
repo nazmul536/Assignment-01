@@ -51,5 +51,19 @@ section {
 
 .Easy-Pickled-Beets h1 {
     font-size: 40px;
+}
 
+.Card {
+    width: 40%;
+    margin-right: 4%;
+    margin-left: 4%;
+    padding-left: 15px;
+    box-shadow: 5px 5px 30px gray;
+    border-radius: 15px;
+}
+
+.Card img {
+    border-radius: 12%;
+    padding-top: 10px;
+    padding-left: 10px;
 }
