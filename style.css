@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.skip {
+    color: orange;
+}
+
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 14px 35px;
+    color: white;
+    border-radius: 18px;
+    margin-top: 15px;
+}
+
+section {
+    display: flex;
+
+}
+
+.img-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 25px;
+}
+
+.img-width img {
+    width: 100%;
+}
+
+.About-me {
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.Easy-Pickled-Beets {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.Easy-Pickled-Beets h1 {
+    font-size: 40px;
+
+}
