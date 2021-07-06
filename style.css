@@ -27,6 +27,7 @@ h1 {
     color: white;
     border-radius: 35px;
     margin-top: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 40px 0px, rgba(173, 28, 28, 0.06) 0px 0px 0px 1px;
 }
 
 section {
