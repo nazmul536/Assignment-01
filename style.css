@@ -10,6 +10,9 @@ h1 {
     font-weight: bold;
 }
 
+.about-me {
+    color: gray;
+}
 
 .skip {
     color: orange;
@@ -20,13 +23,12 @@ h1 {
     background-image: linear-gradient(tomato, orange);
     padding: 14px 35px;
     color: white;
-    border-radius: 18px;
+    border-radius: 35px;
     margin-top: 15px;
 }
 
 section {
     display: flex;
-
 
 }
 
@@ -73,9 +75,15 @@ section {
     width: 90%;
 }
 
+.Card h2 {
+    padding-right: 13px;
+    padding-left: 13px;
+}
+
 .Card p {
-    text-align: justify;
+    text-align: left;
     padding-right: 15px;
+    padding-left: 13px;
 }
 
 .Subscribers {
