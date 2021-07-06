@@ -20,6 +20,10 @@ h1 {
     color: orange;
 }
 
+#paragraph {
+    color: gray;
+}
+
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(tomato, orange);
