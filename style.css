@@ -51,6 +51,7 @@ section {
 .About-me {
     background-image: url(image/7.png);
     background-repeat: no-repeat;
+    background-size: cover;
     width: 100%;
 }
 
